@@ -19,7 +19,7 @@
     "test": "karma start",
     "test:watch": "karma start --autoWatch=true --singleRun=false"
   },
-  "repository": "",
+  "repository": "git@github.com:hoanguyen311/todo-redux.git",
   "keywords": [],
   "author": "Hoa Nguyen",
   "devDependencies": {
